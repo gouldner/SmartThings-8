@@ -40,6 +40,7 @@ metadata {
 		capability "Speech Synthesis"
 		capability "Audio Notification"
 		capability "Music Player"
+		capability "Switch"
 		
 		attribute "lastCheckin", "number"
 		attribute "status", "enum", ["alarm", "pending", "off", "chime"]
