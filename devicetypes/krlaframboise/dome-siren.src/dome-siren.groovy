@@ -10,6 +10,8 @@
  *
  *  Changelog:
  *
+ *    1.0.1 3/8/2017 
+ *      - Added Switch Capability so it works with Amazon Echo etc
  *    1.0 (01/25/2017)
  *      - Initial Release
  *
